@@ -1,0 +1,10 @@
+[submodule "deps/pysodium"]
+	path = deps/pysodium
+	url = https://github.com/stef/pysodium.git
+[submodule "deps/libsodium"]
+	path = deps/libsodium
+	url = https://github.com/jedisct1/libsodium.git
+	branch = stable
+[submodule "deps/opendht"]
+	path = deps/opendht
+	url = https://github.com/savoirfairelinux/opendht.git
