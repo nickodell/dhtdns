@@ -1,0 +1,13 @@
+Publish or request an IP address from the DHT network.
+
+This is very much beta software.
+
+The value cannot be forged. IP addresses are encrypted while stored on the DHT network.
+
+Requires OpenDHT, python, libsodium, and pysodium.
+
+Thanks to Dmitry Dvoinikov for the BSON library.
+
+###LICENSE
+
+GPLv3

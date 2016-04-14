@@ -8,3 +8,6 @@
 [submodule "deps/opendht"]
 	path = deps/opendht
 	url = https://github.com/savoirfairelinux/opendht.git
+[submodule "deps/msgpack"]
+	path = deps/msgpack
+	url = https://github.com/msgpack/msgpack-c.git
